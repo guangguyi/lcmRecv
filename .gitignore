@@ -1,0 +1,8 @@
+*~
+*.swap
+*.user
+bin/*
+build/*
+Makefile
+.qtquickcompiler/
+*_qtquickcompiler.qrc
